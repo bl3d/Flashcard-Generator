@@ -1,4 +1,4 @@
 type: basic || text: What is the best college to do a bootcamp with? || answer: Georgia Tech
-type: cloze || text: ...  is the best president ever. || answer: obama
-type: basic || text: should I populate this log for grading reasons? || answer: yeah, I htink so
-type: cloze || text: ...  of all tades, mastr of one. || answer: jack
+type: cloze || text: ...  is our inept press secretary. || answer: Sean Spicer
+type: basic || text: what is 5 plus 3? || answer: 8
+type: cloze || text: ...  of all trades, master of one. || answer: Jack

@@ -157,8 +157,10 @@ var cardGame = {
 						}
 
 					});
-					console.log(text);
-					console.log(answer);
+					console.log('\n'+text);
+					console.log('\n'+answer);
+
+					process.exit();
 
 				} else {
 					console.log('Sorry, there are no cards yet! Please add some cards and then try again!');
