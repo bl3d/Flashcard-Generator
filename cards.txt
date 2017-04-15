@@ -1,0 +1,4 @@
+type: basic || text: What is the best college to do a bootcamp with? || answer: Georgia Tech
+type: cloze || text: ...  is the best president ever. || answer: obama
+type: basic || text: should I populate this log for grading reasons? || answer: yeah, I htink so
+type: cloze || text: ...  of all tades, mastr of one. || answer: jack
